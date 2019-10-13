@@ -1,0 +1,68 @@
+
+var json = { "movies": [
+	{
+	"id": "01",
+	"img": "img/movie01.jpg",
+	"title": "Ice Age",
+	"year": "2002",
+	"likes": "",
+	"shorts": "Der Film handelt vom gemeinsamen Abenteuer eines Mammuts, eines Riesenfaultiers und eines Säbelzahntigers zur Eiszeit."
+	},
+
+	{
+	"id": "02",
+	"img": "img/movie02.jpg",
+	"title": "Findet Nemo",
+	"year": "2003",
+	"shorts": "Der junge Clownfisch Nemo wird von einem Taucher eingefangen. Sein Vater Marlin ist panisch und will seinen Sohn unbedingt zurückbekommen."
+	},
+
+	{
+	"id": "03",
+	"img": "img/movie03.jpg",
+	"title": "Shrek",
+	"year": "2001",
+	"shorts": "Um wieder Ruhe im heimischen Sumpf zu haben, lässt sich der Oger Shrek von dem bösen Lord Farquaad überreden, die schöne Prinzessin Fiona zu befreien."
+	},
+
+	{
+	"id": "04",
+	"img": "img/movie04.jpg",
+	"title": "Monster AG",
+	"year": "2001",
+	"shorts": "Nacht für Nacht begeben sich die angestellten Monster in die Zimmer schlafender Kinder und erschrecken sie, um ihre Angstschreie einzusammeln."
+	},
+
+	{
+	"id": "05",
+	"img": "img/movie05.jpg",
+	"title": "Ich einfach unverbesserlich",
+	"year": "2010",
+	"shorts": "Gru ist der größte Superbösewicht der Welt und hat einen Heidenspaß daran, seinen Mitmenschen das Leben schwer zu machen."
+	},
+
+	{
+	"id": "06",
+	"img": "img/movie06.jpg",
+	"title": "Die Unglaublichen",
+	"year": "2004",
+	"shorts": "Die Familie der Incredibles muss sich mit ganz alltäglichen Familienproblemen rumschlagen. Von ihrem alten Ruhm ist nicht mehr so viel übrig."
+	},
+
+	{
+	"id": "07",
+	"img": "img/movie07.jpg",
+	"title": "Kung Fu Panda",
+	"year": "2008",
+	"shorts": "Der tollpatschige Panda Po wünscht sich nichts sehnlicher, als Kung-Fu-Kämpfer zu sein."
+	},
+
+	{
+	"id": "08",
+	"img": "img/movie08.jpg",
+	"title": "Das große Krabblen",
+	"year": "1998",
+	"shorts": "Der tollpatschige Erfinder Flik hat Probleme damit, sich in das etablierte System seiner Ameisenkolonie einzuordnen. "
+	}
+]}
+
